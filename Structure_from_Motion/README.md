@@ -6,7 +6,7 @@ Language: MATLAB R2022b
 
 
 ```shell
-MATLAB Computer Vision Toolbox is needed
+Install MATLAB Computer Vision Toolbox is needed
 ```
 
 ### **How to run code**
