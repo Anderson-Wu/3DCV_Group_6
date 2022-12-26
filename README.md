@@ -5,7 +5,7 @@ Group member
 2. R11922029 資工所 吳泓毅
 3. R11525028 工科所 江昱翰
 
-## How to run te code
+## How to run the code
 Run Struct_from_Motion and Optial_flow first, then run Proc_Data
 
 ## Video Link 
