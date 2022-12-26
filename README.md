@@ -1,7 +1,7 @@
 # 3DCV_Group_6
 
 ## How to run te code
-Run Struct_from_motion and Optial_flow first, then run Proc_data
+Run Struct_from_Motion and Optial_flow first, then run Proc_Data
 
 Group member
 1. R10525028 工科所 蔡承恩
